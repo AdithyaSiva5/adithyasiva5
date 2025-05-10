@@ -19,7 +19,7 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 
 ## Featured Projects
 
-- **Ripple Job Portal** ([GitHub Frontend](https://github.com/adithyasiva5/ripple-frontend) | [Backend](https://github.com/adithyasiva5/ripple-backend)): A MERN-based platform with WebRTC video calls, real-time chat, and premium user features. Deployed on AWS.
+- **Ripple Job Portal** ([GitHub Frontend](https://github.com/adithyasiva5/Ripple-Job-Portal-Frontend) | [Backend](https://github.com/adithyasiva5/Ripple-Job-Portal-Backend)): A MERN-based platform with WebRTC video calls, real-time chat, and premium user features. Deployed on AWS.
 - **InstaTracker** ([GitHub](https://github.com/AdithyaSiva5/Instatracker)): An Android app built with Android Studio to track time spent on Instagram reels and count reels watched.
 - **MetroVisualizer** ([GitHub](https://github.com/AdithyaSiva5/MetroVisualizer)): A frontend application for visualizing the Kochi Metro system, showcasing interactive transit maps.
 - **NoteExchange** ([GitHub Frontend](https://github.com/AdithyaSiva5/NoteExchange-Frontend) | [Backend](https://github.com/AdithyaSiva5/NoteExchange-Backend)): A MERN-based platform for sharing and monetizing study notes, featuring user authentication and payment integration.
