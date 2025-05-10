@@ -2,12 +2,7 @@
 
 ## About Me
 
-I'm Adithya Sivan, a Full Stack Developer from India specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with experience in TypeScript, Java, and C. My GitHub is a hub for innovative, small-scale projects designed to inspire and invite collaboration. I focus on building efficient, scalable web applications and welcome contributions via pull requests. If you find my work valuable, please consider supporting me at [Razorpay](https://razorpay.me/@adithyasivanps).
-
-- **Current Project**: Developing a Job Portal with real-time features using MERN and WebRTC.
-- **Expertise**: JavaScript, TypeScript, React, Node.js, MongoDB, AWS.
-- **Open to Discuss**: MERN stack, RESTful APIs, cloud deployment, or your project ideas.
-- **Fun Fact**: I thrive on transforming concepts into functional prototypes.
+I'm Adithya Sivan, a Full Stack Developer from India specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with experience in TypeScript, Java, C, C#, and Android development. My GitHub is a hub for innovative, small-scale projects designed to inspire and invite collaboration. I focus on building efficient, scalable applications and welcome contributions via pull requests. If you find my work valuable, please consider supporting me at [Razorpay](https://razorpay.me/@adithyasivanps).
 
 ## My Mission
 
@@ -15,18 +10,21 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 
 ## Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Java, C
+- **Languages**: JavaScript, TypeScript, Java, C, C#
 - **Frontend**: React, HTML5, CSS3, Tailwind CSS, Material UI
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, PostgreSQL, Firebase
-- **Tools & Cloud**: Git, GitHub, AWS EC2, MongoDB Atlas, Postman, NGINX
-- **Other**: Redux, RESTful APIs, WebRTC, Responsive Design
+- **Tools & Cloud**: Git, GitHub, AWS EC2, MongoDB Atlas, Postman, NGINX, Android Studio
+- **Other**: Redux, RESTful APIs, WebRTC, Responsive Design, Android Development
 
 ## Featured Projects
 
 - **Ripple Job Portal** ([GitHub Frontend](https://github.com/adithyasiva5/ripple-frontend) | [Backend](https://github.com/adithyasiva5/ripple-backend)): A MERN-based platform with WebRTC video calls, real-time chat, and premium user features. Deployed on AWS.
+- **InstaTracker** ([GitHub](https://github.com/AdithyaSiva5/Instatracker)): An Android app built with Android Studio to track time spent on Instagram reels and count reels watched.
+- **MetroVisualizer** ([GitHub](https://github.com/AdithyaSiva5/MetroVisualizer)): A frontend application for visualizing the Kochi Metro system, showcasing interactive transit maps.
+- **NoteExchange** ([GitHub Frontend](https://github.com/AdithyaSiva5/NoteExchange-Frontend) | [Backend](https://github.com/AdithyaSiva5/NoteExchange-Backend)): A MERN-based platform for sharing and monetizing study notes, featuring user authentication and payment integration.
+- **EasyCopyPaste** ([GitHub](https://github.com/AdithyaSiva5/EasyCopyPaste)): A C# software that instantly copies selected lines, streamlining the copy-paste process.
 - **Ziffy Store E-commerce** ([GitHub](https://github.com/adithyasiva5/ziffy-store)): A full-featured e-commerce solution with Razorpay payments, admin analytics, and AWS hosting.
-- **Next.js Exam Portal** ([GitHub](https://github.com/adithyasiva5/exam-portal)): An interactive exam platform with user authentication and progress tracking.
 
 ## Collaborate & Support
 
@@ -38,5 +36,9 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyasiva5&show_icons=true&locale=en)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adithyasiva5&show_icons=true&locale=en&layout=compact)
+
+## Contribution Graph
+
+![Contribution Snake](https://raw.githubusercontent.com/adithyasiva5/adithyasiva5/output/snake.svg)
 
 Thank you for visiting! Let's build something great together.
