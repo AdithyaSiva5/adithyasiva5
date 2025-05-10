@@ -32,13 +32,13 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 2. **Support**: Donate at [Razorpay](https://razorpay.me/@adithyasivanps) to fund new projects.
 3. **Connect**: Reach out via [LinkedIn](https://linkedin.com/in/adithyasivanps) for collaboration.
 
+## Contribution Graph
+
+![Contribution Snake](https://github.com/adithyasiva5/adithyasiva5/blob/main/dist/snake.svg)
+
 ## GitHub Stats
 
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyasiva5&show_icons=true&locale=en)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adithyasiva5&show_icons=true&locale=en&layout=compact)
-
-## Contribution Graph
-
-![Contribution Snake](https://raw.githubusercontent.com/adithyasiva5/adithyasiva5/output/snake.svg)
 
 Thank you for visiting! Let's build something great together.
