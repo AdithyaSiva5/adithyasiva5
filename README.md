@@ -1,51 +1,42 @@
-🚀 Welcome to Adithya Sivan's Idea Incubator! 🌟
+# Adithya Sivan | Full Stack Developer
 
-### Full Stack Innovator | Idea Generator | Open Source Enthusiast from India
+## About Me
 
----
+I'm Adithya Sivan, a Full Stack Developer from India specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with experience in TypeScript, Java, and C. My GitHub is a hub for innovative, small-scale projects designed to inspire and invite collaboration. I focus on building efficient, scalable web applications and welcome contributions via pull requests. If you find my work valuable, please consider supporting me at [Razorpay](https://razorpay.me/@adithyasivanps).
 
-## 🌈 About Me
+- **Current Project**: Developing a Job Portal with real-time features using MERN and WebRTC.
+- **Expertise**: JavaScript, TypeScript, React, Node.js, MongoDB, AWS.
+- **Open to Discuss**: MERN stack, RESTful APIs, cloud deployment, or your project ideas.
+- **Fun Fact**: I thrive on transforming concepts into functional prototypes.
 
-I'm **Adithya Sivan**, a passionate Full Stack Developer with a knack for turning wild ideas into functional prototypes. My GitHub is an **Idea Incubator** where I craft small, working projects that spark creativity. Want to build something big? Fork my repos, create a pull request, or support my work with a donation at Razorpay! 💡
+## My Mission
 
-- 🔭 **Currently Exploring**: A Job Portal to connect talent with opportunities.
-- 🌱 **Learning**: Advanced AWS architectures and Next.js optimizations.
-- 💬 **Ask Me About**: JavaScript, React, Node.js, MongoDB, or brainstorming your next big idea!
-- ⚡ **Fun Fact**: I believe AI will amplify creativity, not replace it—let's prove it together!
+This repository hosts compact, working prototypes to spark creativity. Explore my projects, contribute to their growth, or donate to fuel more innovation. Your support on [Razorpay](https://razorpay.me/@adithyasivanps) helps me create more open-source solutions.
 
----
+## Tech Stack
 
-## 🚀 My Vision
+- **Languages**: JavaScript, TypeScript, Java, C
+- **Frontend**: React, HTML5, CSS3, Tailwind CSS, Material UI
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL, Firebase
+- **Tools & Cloud**: Git, GitHub, AWS EC2, MongoDB Atlas, Postman, NGINX
+- **Other**: Redux, RESTful APIs, WebRTC, Responsive Design
 
-This GitHub is a playground for **innovative ideas** in bite-sized, working formats. Each repository is a seed—plant it, grow it, or remix it! If you find my projects useful, consider contributing via pull requests or supporting me on Razorpay. Let's build a community of creators! 🌍
+## Featured Projects
 
----
+- **Ripple Job Portal** ([GitHub Frontend](https://github.com/adithyasiva5/ripple-frontend) | [Backend](https://github.com/adithyasiva5/ripple-backend)): A MERN-based platform with WebRTC video calls, real-time chat, and premium user features. Deployed on AWS.
+- **Ziffy Store E-commerce** ([GitHub](https://github.com/adithyasiva5/ziffy-store)): A full-featured e-commerce solution with Razorpay payments, admin analytics, and AWS hosting.
+- **Next.js Exam Portal** ([GitHub](https://github.com/adithyasiva5/exam-portal)): An interactive exam platform with user authentication and progress tracking.
 
-## 🛠️ Tech Stack
+## Collaborate & Support
 
----
+1. **Contribute**: Fork my repositories, enhance features, and submit pull requests.
+2. **Support**: Donate at [Razorpay](https://razorpay.me/@adithyasivanps) to fund new projects.
+3. **Connect**: Reach out via [LinkedIn](https://linkedin.com/in/adithyasivanps) for collaboration.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
----
+![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyasiva5&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adithyasiva5&show_icons=true&locale=en&layout=compact)
 
-## 🌟 Featured Projects
-
-- **Job Portal**: A platform connecting job seekers with employers. Fork it to add features like AI resume matching!
-- **IdeaHub**: A collaborative space for sharing and prototyping ideas. Contribute your spark!
-- **MiniGames**: Fun, lightweight games built with React. Add your own game to the collection!
-
----
-
-## 🤝 Join the Idea Incubator
-
-1. **Explore**: Check out my repositories for inspiration.
-2. **Contribute**: Fork, code, and submit a pull request to enhance any project.
-3. **Support**: Love what I do? Donate at Razorpay to fuel more ideas.
-4. **Connect**: Reach out via LinkedIn or Twitter to collaborate!
-
----
-
-## 🎨 Animated Flair
-
-> "Ideas are just the beginning—code makes them real." — Adithya Sivan
+Thank you for visiting! Let's build something great together.
