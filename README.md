@@ -24,7 +24,7 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 - **MetroVisualizer** ([GitHub](https://github.com/AdithyaSiva5/MetroVisualizer)): A frontend application for visualizing the Kochi Metro system, showcasing interactive transit maps.
 - **NoteExchange** ([GitHub Frontend](https://github.com/AdithyaSiva5/NoteExchange-Frontend) | [Backend](https://github.com/AdithyaSiva5/NoteExchange-Backend)): A MERN-based platform for sharing and monetizing study notes, featuring user authentication and payment integration.
 - **EasyCopyPaste** ([GitHub](https://github.com/AdithyaSiva5/EasyCopyPaste)): A C# software that instantly copies selected lines, streamlining the copy-paste process.
-- **Ziffy Store E-commerce** ([GitHub](https://github.com/adithyasiva5/ziffy-store)): A full-featured e-commerce solution with Razorpay payments, admin analytics, and AWS hosting.
+- **Ziffy Store E-commerce** ([GitHub](https://github.com/AdithyaSiva5/Ziffy-Stores)): A full-featured e-commerce solution with Razorpay payments, admin analytics, and AWS hosting.
 
 ## Collaborate & Support
 
