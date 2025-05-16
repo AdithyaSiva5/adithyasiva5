@@ -6,7 +6,7 @@ I'm Adithya Sivan, a Full Stack Developer from India specializing in the MERN st
 
 ## My Mission
 
-This repository hosts compact, working prototypes to spark creativity. Explore my projects, contribute to their growth, or donate to fuel more innovation. Your support on [Razorpay](https://razorpay.me/@adithyasivanps) helps me create more open-source solutions.
+This repository hosts compact, working prototypes to spark creativity. Explore my projects, contribute to their growth, or donate to fuel more innovation. Your support on [Razorpay](https://razorpay.me/@adithyasivanps) helps me create more open-source solutions. Every single rupee will be used for the growth of my projects.
 
 ## Tech Stack
 
@@ -25,6 +25,7 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 - **NoteExchange** ([GitHub Frontend](https://github.com/AdithyaSiva5/NoteExchange-Frontend) | [Backend](https://github.com/AdithyaSiva5/NoteExchange-Backend)): A MERN-based platform for sharing and monetizing study notes, featuring user authentication and payment integration.
 - **EasyCopyPaste** ([GitHub](https://github.com/AdithyaSiva5/EasyCopyPaste)): A C# software that instantly copies selected lines, streamlining the copy-paste process.
 - **Ziffy Store E-commerce** ([GitHub](https://github.com/AdithyaSiva5/Ziffy-Stores)): A full-featured e-commerce solution with Razorpay payments, admin analytics, and AWS hosting.
+- **ResQue - Restaurent Queue Waiting Webapp** ([GitHub Frontend](https://github.com/AdithyaSiva5/ResQue-Queue-System-Frontend) | [Backend](https://github.com/AdithyaSiva5/ResQue-Queue-System)):
 
 ## Collaborate & Support
 
