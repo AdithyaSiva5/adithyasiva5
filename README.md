@@ -25,7 +25,7 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 - **NoteExchange** ([GitHub Frontend](https://github.com/AdithyaSiva5/NoteExchange-Frontend) | [Backend](https://github.com/AdithyaSiva5/NoteExchange-Backend)): A MERN-based platform for sharing and monetizing study notes, featuring user authentication and payment integration.
 - **EasyCopyPaste** ([GitHub](https://github.com/AdithyaSiva5/EasyCopyPaste)): A C# software that instantly copies selected lines, streamlining the copy-paste process.
 - **Ziffy Store E-commerce** ([GitHub](https://github.com/AdithyaSiva5/Ziffy-Stores)): A full-featured e-commerce solution with Razorpay payments, admin analytics, and AWS hosting.
-- **ResQue - Restaurent Queue Waiting Webapp** ([GitHub Frontend](https://github.com/AdithyaSiva5/ResQue-Queue-System-Frontend) | [Backend](https://github.com/AdithyaSiva5/ResQue-Queue-System)):
+- **ResQue - Restaurent Queue Waiting Webapp** ([GitHub Frontend](https://github.com/AdithyaSiva5/ResQue-Queue-System-Frontend) | [Backend](https://github.com/AdithyaSiva5/ResQue-Queue-System))(temp making this repo private, due to some suggestions)
 
 ## Collaborate & Support
 
