@@ -30,8 +30,7 @@ This repository hosts compact, working prototypes to spark creativity. Explore m
 ## Collaborate & Support
 
 1. **Contribute**: Fork my repositories, enhance features, and submit pull requests.
-2. **Support**: Donate at [Razorpay](https://razorpay.me/@adithyasivanps) to fund new projects.
-3. **Connect**: Reach out via [LinkedIn][(https://linkedin.com/in/adithyasivanps](https://www.linkedin.com/in/adithya-sivan-p-s-b35909241/)) for collaboration.
+2. **Connect**: Reach out via [LinkedIn][(https://linkedin.com/in/adithyasivanps](https://www.linkedin.com/in/adithya-sivan-p-s-b35909241/)) for collaboration.
 
 ## Contribution Graph
 
