@@ -6,7 +6,7 @@ I'm Adithya Sivan, a Full Stack Developer from India specializing in the MERN st
 
 ## My Mission
 
-This repository hosts compact, working prototypes to spark creativity. Explore my projects, contribute to their growth, or donate to fuel more innovation. Your support on [Razorpay](https://razorpay.me/@adithyasivanps) helps me create more open-source solutions. Every single rupee will be used for the growth of my projects.
+This repository hosts compact, working prototypes to spark creativity. Explore my projects, contribute to their growth, or donate to fuel more innovation.
 
 ## Tech Stack
 
